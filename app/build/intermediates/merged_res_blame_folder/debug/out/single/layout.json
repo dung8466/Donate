@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Dung\\Desktop\\uet-mobile-practice-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_donate.xml",
+        "source": "C:\\Users\\Dung\\Desktop\\uet-mobile-practice-master\\app\\src\\main\\res\\layout\\row_donate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dung\\Desktop\\uet-mobile-practice-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_donate.xml",
+        "source": "C:\\Users\\Dung\\Desktop\\uet-mobile-practice-master\\app\\src\\main\\res\\layout\\activity_donate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dung\\Desktop\\uet-mobile-practice-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_donate.xml",
+        "source": "C:\\Users\\Dung\\Desktop\\uet-mobile-practice-master\\app\\src\\main\\res\\layout\\content_donate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dung\\Desktop\\uet-mobile-practice-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_report.xml",
+        "source": "C:\\Users\\Dung\\Desktop\\uet-mobile-practice-master\\app\\src\\main\\res\\layout\\activity_report.xml"
+    }
+]
